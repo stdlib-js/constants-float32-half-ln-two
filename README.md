@@ -153,6 +153,12 @@ Macro for one half times the [natural logarithm][@stdlib/math/base/special/ln] o
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/constants-float64/half-ln-two`][@stdlib/constants/float64/half-ln-two]</span><span class="delimiter">: </span><span class="description">one half times the natural logarithm of 2.</span>
+
 </section>
 
 <!-- /.related -->
@@ -183,7 +189,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -232,6 +238,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [@stdlib/math/base/special/ln]: https://github.com/stdlib-js/math-base-special-ln
 
 <!-- <related-links> -->
+
+[@stdlib/constants/float64/half-ln-two]: https://github.com/stdlib-js/constants-float64-half-ln-two
 
 <!-- </related-links> -->
 
