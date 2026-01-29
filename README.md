@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_HALF_LN2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-half-ln-two@deno/mod.js';
+import FLOAT32_HALF_LN2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-half-ln-two@v0.1.0-deno/mod.js';
 ```
 
 #### FLOAT32_HALF_LN2
@@ -67,7 +67,7 @@ var bool = ( FLOAT32_HALF_LN2 === 0.3465735912322998 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT32_HALF_LN2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-half-ln-two@deno/mod.js';
+import FLOAT32_HALF_LN2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-half-ln-two@v0.1.0-deno/mod.js';
 
 console.log( FLOAT32_HALF_LN2 );
 // => 0.3465735912322998
