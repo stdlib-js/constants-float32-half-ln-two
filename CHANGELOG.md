@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-02)
+## Unreleased (2026-10-12)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ea7863e`](https://github.com/stdlib-js/stdlib/commit/ea7863e40d091327a8d46dd43f4fc58c59b089c2) - **test:** migrate `constants/float32/half-ln-two` to ULP-based assertions [(#16071)](https://github.com/stdlib-js/stdlib/pull/16071) _(by Athan Reines)_
 -   [`8879b1d`](https://github.com/stdlib-js/stdlib/commit/8879b1d32513bce3f1cc083787d3ca504f7673a4) - **docs:** tidy doc and C macro drift in `@stdlib/constants-float32` [(#12432)](https://github.com/stdlib-js/stdlib/pull/12432) _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
